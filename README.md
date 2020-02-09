@@ -11,3 +11,6 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Good job boomer"
+
+# Resources
+https://github.com/benelser/LearningToCode 
